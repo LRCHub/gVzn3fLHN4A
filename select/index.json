@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Pump up Freestyle",
+  "base_artist": "ralph",
+  "createdAt": "2026-02-11T16:02:57.736973Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pump up Freestyle",
+      "artist": "ralph",
+      "has_synced": false,
+      "path": "select/pl_01_Pump_up_Freestyle_ralph.txt"
+    }
+  ]
+}
